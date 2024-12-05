@@ -42,6 +42,7 @@ Visualization allows users to easily interpret the results by displaying trends,
 The use of external data sources like Yahoo Finance can potentially enhance the analysis by comparing market data with social media trends.
 
 ![image alt](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/4cef193d079c8e0ea34c5ae1304cbf74955b3be8/img1.png)
+![image_alt](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/3fece3b9f066397d30d765a3665899bb6a6d3643/img2.png)
 
 
 # prediction model
