@@ -41,7 +41,7 @@ Time Series Analysis tracks how sentiments and mentions evolve over time, which 
 Visualization allows users to easily interpret the results by displaying trends, frequencies, and topics in a graphical format.
 The use of external data sources like Yahoo Finance can potentially enhance the analysis by comparing market data with social media trends.
 
-![image alt](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/da1e06eb617d6d4aad597de0bb319869c104303f/img.png)
+![image alt]([https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/da1e06eb617d6d4aad597de0bb319869c104303f/img.png](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/4cef193d079c8e0ea34c5ae1304cbf74955b3be8/img1.png))
 
 
 # prediction model
