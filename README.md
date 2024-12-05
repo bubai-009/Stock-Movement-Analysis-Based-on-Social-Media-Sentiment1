@@ -45,6 +45,7 @@ The use of external data sources like Yahoo Finance can potentially enhance the 
 ![image_alt](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/3fece3b9f066397d30d765a3665899bb6a6d3643/img2.png)
 ![image_alt](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/42adbd08fe323f860846e4095e77eb45f7a8ba53/img.png)
 ![image_alt](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/d26e8de4267862f4f64fde648c3826fb2df4431e/img5.png)
+![image_alt](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/67e9ba651039466bf9bcd899d16bcf784d170e07/img4.png)
 
 
 # prediction model
