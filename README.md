@@ -41,6 +41,9 @@ Time Series Analysis tracks how sentiments and mentions evolve over time, which 
 Visualization allows users to easily interpret the results by displaying trends, frequencies, and topics in a graphical format.
 The use of external data sources like Yahoo Finance can potentially enhance the analysis by comparing market data with social media trends.
 
+![image alt](https://github.com/bubai-009/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment1/blob/da1e06eb617d6d4aad597de0bb319869c104303f/img.png)
+
+
 # prediction model
 The code implements a process for predicting stock movement based on sentiment and keyword mentions in Telegram messages. By leveraging machine learning techniques (Random Forest Classifier), it can predict whether the stock prices are likely to go up or down based on sentiment and the occurrence of certain keywords. The evaluation metrics (accuracy, precision, recall, F1 score) help assess the model’s performance and its usefulness in real-world applications like stock market analysis or trading automation.
 This overall process helps in building a predictive model that can be used in the financial domain, potentially assisting traders in making more informed decisions based on the sentiment of news or social media messages.
